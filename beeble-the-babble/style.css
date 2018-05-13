@@ -3,3 +3,9 @@ body {
     background-color: #D8DBE2;
     color: #373F51;
 }
+p {
+    font-size: 20px;
+}
+p, h1 {
+    font-family: Georgia;
+}

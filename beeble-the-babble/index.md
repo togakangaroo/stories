@@ -4,7 +4,7 @@
 
 Beeble the Babble was a freindly beetle. Some said too friendly. See, when Beeble the Babble got talking he would go on and on. He could easily fill many hours each day happily babbling along.
 
-Beeble's house was in the village center. The pale blue house with the tile roof, three east and one north of the exact geographical center of the village. Every morning he would get up and go for a walk. He would greet everyone he passed by. Most would nod back, some would say hi, and rush on, most everyone tried to not get stuck in conversation. They had things to do!
+Beeble's house was in the village. The pale blue house with the tile roof, three east and one north of the exact geographical center. Every morning he would get up and go for a walk. He would greet everyone he passed. Most would nod back, some would say hi and rush on, most everyone tried to not get stuck in conversation. Beeble was pleasant but they had things to do!
 
 On a particular May morning, Beeble had walked through the entire village without striking up a conversation. Since a talk-less walk is never done, he decided to keep going.
 
@@ -60,7 +60,7 @@ Beeble didn't hesitate. He jumped right into the well bucket, grabbing the rope 
 
 He called into the darkness. By the time he hit bottom, Beeble's arms ached but he took hold of the young bird and started pulling the rope. Fist-full by fist-full they went up. Pull, breathe, pull breathe, a few inches at a time. *"Thank goodness I haven't been skipping arm day"* Beeble thought. Finally, shoulders quivering, they reached the top of the well and beetle and bird tumbled out onto the ground.
 
-> Goodness, said Beeble, finally catching his breath. However did this happen? I thought flying was what brids did best?
+> Goodness, said Beeble, finally catching his breath. However did this happen? I thought flying was what birds did best?
 
 > Well...I've been practicing flying, came the reply, I really have. But I'm a young bird and I'm great at swooping, and circling. I can coast and I can do a running take off, but I haven't mastered flying straight up quite yet. Thank you so much for rescuing me for without you I would surely have starved. How can I ever repay you?
 
