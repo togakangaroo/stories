@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="style.css" />
+
+# Beeble the Babble
+
 Beeble the Babble was a freindly beetle. Some said too friendly. See, when Beeble the Babble got talking he would go on and on. He could easily fill many hours each day happily babbling along.
 
 Beeble's house was in the village center. The pale blue house with the tile roof, three east and one north of the exact geographical center of the village. Every morning he would get up and go for a walk. He would greet everyone he passed by. Most would nod back, some would say hi, and rush on, most everyone tried to not get stuck in conversation. They had things to do!
