@@ -9,6 +9,9 @@ p {
 h1 {
     color: #58A4B0;
 }
+footer {
+    color: #FF0000;
+}
 .markdown-body blockquote {
     padding: 0 .5em;
     color: #373F51;

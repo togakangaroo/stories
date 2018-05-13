@@ -100,4 +100,6 @@ Beeble the Babble drew himself up to his full height, ready to launch into a sto
 
 The boy nodded and ran off and Beeble the Babble gathered up his crafting supplies and headed home. He'd said enough important things for the day.
 
+<footer>
 🐛❤
+</footer>
