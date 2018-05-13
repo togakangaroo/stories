@@ -4,7 +4,7 @@
 
 Beeble the Babble was a freindly beetle. Some said too friendly. See, when Beeble the Babble got talking he would go on and on. He could easily fill many hours each day happily babbling along.
 
-Beeble's house was in the village. The pale blue house with the tile roof, three east and one north of the exact geographical center. Every morning he would get up and go for a walk. He would greet everyone he passed. Most would nod back, some would say hi and rush on, most everyone tried to not get stuck in conversation. Beeble was pleasant but they had things to do!
+Beeble's house was in the village. The pale blue house with the tile roof; three east and one north of the exact geographical center. Every morning he would get up and go for a walk. He would greet everyone he passed. Most would nod back, some would say hi and rush on. Most everyone tried to not get stuck in conversation. Beeble was pleasant but they had things to do!
 
 On a particular May morning, Beeble had walked through the entire village without striking up a conversation. Since a talk-less walk is never done, he decided to keep going.
 
@@ -40,9 +40,9 @@ Beeble prattled on and on and the small fish listened patiently for he was very 
 
 ------------
 
-The following day he woke up with his legs still aching from balancing the previous day. He decided to take a shorter walk - no further than the outskirts of the village.
+Beeble woke up with his legs still aching from balancing the previous day. He decided to take a shorter walk - no further than the outskirts of the village.
 
-Beeble walked slowly. Past the last house to the north, beside the field where the children play, listening to their loud voices laughing and cheering. It was just as he was passing the well that he heard a new cry.
+He walked slowly. Past the last house to the north, beside the field where the children play, listening to their loud voices laughing and cheering. It was just as he was passing the well that he heard a new cry.
 
 > I'm stuck! I'm stuck! Can anyone hear me?!
 
@@ -58,7 +58,7 @@ Beeble didn't hesitate. He jumped right into the hanging well bucket, grabbing t
 
 > I'm coming, I'm coming!
 
-He called into the darkness. By the time he hit bottom, Beeble's arms ached but he took hold of the young bird and started pulling. Fist-full by fist-full they went up. Pull the rope. Breathe. Pull. Breathe. A few inches at a time. *"Thank goodness I haven't been skipping arm day"* Beeble thought. Finally, shoulders quivering, they reached the top of the well and beetle and bird tumbled out onto the ground.
+He called into the darkness. By the time he hit bottom, Beeble's arms ached but he took hold of the young bird and started pulling. Fist-full by fist-full they went up. Pull the rope. Breathe. Pull. Breathe. Pull. Breathe. Pull Breathe. (Beetles have four arms.) A few inches at a time. *"Thank goodness I haven't been skipping arm day"* Beeble thought. Finally, shoulders quivering, they reached the top of the well and beetle and bird tumbled out onto the ground.
 
 > Goodness, said Beeble, finally catching his breath. However did this happen? I thought flying was what birds did best.
 
