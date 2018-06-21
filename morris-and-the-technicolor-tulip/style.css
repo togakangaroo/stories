@@ -1,0 +1,24 @@
+body {
+    background-color: #D8DBE2;
+    color: #373F51;
+}
+p {
+    font-size: 20px;
+}
+h1 {
+    color: #58A4B0;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 150%;
+}
+.markdown-body blockquote {
+    padding: 0 .5em;
+    color: #373F51;
+    border-left: 0.25em solid #DAA49A;
+}
+p, h1 {
+    font-family: Georgia;
+}
